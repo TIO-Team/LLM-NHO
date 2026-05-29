@@ -88,3 +88,14 @@ If you use this code in your research, please cite our paper.
 ## Acknowledgements
 
 This codebase builds on the public EoH platform and prior NCO implementations (e.g., SIL-style components). We thank the authors for open-sourcing their work.
+
+
+Important Notice
+
+This repository contains the early research release used during our paper experiments. The primary goal of this version is to provide access to the core algorithms and experimental code rather than a production-ready software package.
+
+As a result, users may encounter incomplete documentation, environment-specific configurations, hard-coded paths, or other deployment-related issues. Some setup and deployment details are intentionally left in their original research form and may require manual adjustment depending on your environment.
+
+We plan to release a cleaner and more user-friendly version in the future, with improved documentation, code readability, dependency management, and deployment support.
+
+Thank you for your patience and understanding.
