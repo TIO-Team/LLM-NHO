@@ -90,7 +90,7 @@ If you use this code in your research, please cite our paper.
 This codebase builds on the public EoH platform and prior NCO implementations (e.g., SIL-style components). We thank the authors for open-sourcing their work.
 
 
-Important Notice
+## Important Notice
 
 This repository contains the early research release used during our paper experiments. The primary goal of this version is to provide access to the core algorithms and experimental code rather than a production-ready software package.
 
